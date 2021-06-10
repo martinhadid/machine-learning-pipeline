@@ -1,1 +1,1 @@
-# mlops-pipeline
+# machine-learning-pipeline
